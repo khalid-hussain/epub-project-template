@@ -138,7 +138,8 @@ h1 {
   font-size: 2em;
   font-weight: bold;
   page-break-before: always;
-  line-height: 150%; /*gets squished otherwise on ADE */
+  /* line-height: 150%; gets squished otherwise on ADE */
+  line-height: 120%;
 }
 
 h2 {
@@ -148,7 +149,8 @@ h2 {
   font-size: 1.5em;
   font-weight: bold;
   page-break-before: always;
-  line-height: 135%; /*get squished otherwise on ADE */
+  /* line-height: 135%; get squished otherwise on ADE */
+  line-height: 110%;
 }
 
 h3 {
